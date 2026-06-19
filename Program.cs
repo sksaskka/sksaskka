@@ -27,3 +27,5 @@ class Program
         Console.WriteLine($"Второй поток: {sum2}");
         Console.WriteLine($"Третий поток: {sum3}");
         Console.WriteLine($"Общая сумма: {result}");
+    }
+}
